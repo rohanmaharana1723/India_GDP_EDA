@@ -37,10 +37,10 @@ to analyze growth trends, sector contribution, and economic patterns.
 <h2 style="color:#1A5276;"> Project Objectives</h2>
 
 <ul style="line-height:1.8;">
-  <li>✔ Clean and preprocess GDP dataset</li>
-  <li>✔ Analyze yearly GDP growth</li>
-  <li>✔ Compare Agriculture, Industry & Services sectors</li>
-  <li>✔ Visualize insights using charts</li>
+  <li> Clean and preprocess GDP dataset</li>
+  <li> Analyze yearly GDP growth</li>
+  <li> Compare Agriculture, Industry & Services sectors</li>
+  <li>Visualize insights using charts</li>
 </ul>
 
 <hr>
@@ -85,7 +85,7 @@ to analyze growth trends, sector contribution, and economic patterns.
 
 <!-- ================= KEY INSIGHTS ================= -->
 
-<h2 style="color:#1A5276;">📊 Key Insights</h2>
+<h2 style="color:#1A5276;"> Key Insights</h2>
 
 <div style="background-color:#FEF9E7; padding:15px; border-left:6px solid #F1C40F;">
 <ul>

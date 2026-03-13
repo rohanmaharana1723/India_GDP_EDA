@@ -1,0 +1,9 @@
+# robots.txt — India Economic Dashboard
+# Hosted on GitHub Pages
+
+User-agent: *
+Allow: /
+
+# Point crawlers to the sitemap
+# Replace YOUR-USERNAME with your actual GitHub username
+Sitemap: https://YOUR-USERNAME.github.io/india-dashboard/sitemap.xml
